@@ -1,0 +1,330 @@
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T00:20:40,215+0530 [6173 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T00:20:40,503+0530 [6173 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T00:20:41,449+0530 [6173 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T00:20:41,570+0530 [6173 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T00:20:41,627+0530 [6173 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T00:20:41,630+0530 [6173 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T00:20:41,630+0530 [6173 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T00:20:41,630+0530 [6173 1] com.newrelic INFO: Premain startup complete in 6,924ms
+2024-05-29T00:20:41,631+0530 [6173 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T00:20:42,573+0530 [6173 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T00:20:42,575+0530 [6173 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T00:25:06,180+0530 [8193 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T00:25:06,180+0530 [8193 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T00:25:06,180+0530 [8193 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T00:25:06,180+0530 [8193 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T00:25:06,180+0530 [8193 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T00:25:06,181+0530 [8193 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T00:25:06,448+0530 [8193 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T00:25:06,914+0530 [8193 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T00:25:07,041+0530 [8193 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T00:25:07,102+0530 [8193 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T00:25:07,103+0530 [8193 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T00:25:07,104+0530 [8193 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T00:25:07,104+0530 [8193 1] com.newrelic INFO: Premain startup complete in 6,484ms
+2024-05-29T00:25:07,104+0530 [8193 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T00:25:07,987+0530 [8193 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T00:25:07,989+0530 [8193 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T00:59:07,431+0530 [14796 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T00:59:07,431+0530 [14796 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T00:59:07,431+0530 [14796 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T00:59:07,432+0530 [14796 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T00:59:07,432+0530 [14796 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T00:59:07,432+0530 [14796 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T00:59:07,729+0530 [14796 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T00:59:08,473+0530 [14796 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T00:59:08,610+0530 [14796 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T00:59:08,668+0530 [14796 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T00:59:08,670+0530 [14796 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T00:59:08,670+0530 [14796 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T00:59:08,670+0530 [14796 1] com.newrelic INFO: Premain startup complete in 6,791ms
+2024-05-29T00:59:08,671+0530 [14796 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T00:59:09,651+0530 [14796 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T00:59:09,653+0530 [14796 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:05:52,018+0530 [15470 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:05:52,018+0530 [15470 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:05:52,018+0530 [15470 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:05:52,018+0530 [15470 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:05:52,018+0530 [15470 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:05:52,019+0530 [15470 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:05:52,293+0530 [15470 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:05:52,872+0530 [15470 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:05:52,992+0530 [15470 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:05:53,061+0530 [15470 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:05:53,063+0530 [15470 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:05:53,063+0530 [15470 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:05:53,063+0530 [15470 1] com.newrelic INFO: Premain startup complete in 6,686ms
+2024-05-29T01:05:53,064+0530 [15470 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:05:54,601+0530 [15470 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:06:03,103+0530 [15470 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T01:06:03,129+0530 [15470 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:06:04,165+0530 [15470 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T01:06:04,651+0530 [15470 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T01:06:04,652+0530 [15470 40] com.newrelic INFO: Agent run id: BTXeawvDXG-RAEP5uBk7bltmVjKYAAIBAAAnIQEAADxuAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T01:06:04,652+0530 [15470 40] com.newrelic INFO: Agent 15470@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T01:06:04,653+0530 [15470 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T01:06:04,655+0530 [15470 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:06:04,655+0530 [15470 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:06:04,655+0530 [15470 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:06:04,657+0530 [15470 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:06:04,657+0530 [15470 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:06:04,658+0530 [15470 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:06:04,910+0530 [15470 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T01:06:04,911+0530 [15470 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:11:43,406+0530 [15470 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T01:11:43,451+0530 [15470 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@1bb13f9 tried to finish but ServiceManager not started
+2024-05-29T01:11:45,215+0530 [15470 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:11:55,433+0530 [15613 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:11:55,434+0530 [15613 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:11:55,434+0530 [15613 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:11:55,435+0530 [15613 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:11:55,435+0530 [15613 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:11:55,436+0530 [15613 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:11:55,784+0530 [15613 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:11:56,987+0530 [15613 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:11:57,112+0530 [15613 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:11:57,171+0530 [15613 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:11:57,173+0530 [15613 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:11:57,173+0530 [15613 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:11:57,173+0530 [15613 1] com.newrelic INFO: Premain startup complete in 7,282ms
+2024-05-29T01:11:57,174+0530 [15613 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:11:58,637+0530 [15613 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:11:58,879+0530 [15613 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T01:11:58,881+0530 [15613 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:12:10,319+0530 [15656 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:12:10,581+0530 [15656 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:12:11,035+0530 [15656 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:12:11,159+0530 [15656 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:12:11,219+0530 [15656 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:12:11,220+0530 [15656 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:12:11,220+0530 [15656 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:12:11,221+0530 [15656 1] com.newrelic INFO: Premain startup complete in 6,378ms
+2024-05-29T01:12:11,221+0530 [15656 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:12:12,769+0530 [15656 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:12:21,235+0530 [15656 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T01:12:21,238+0530 [15656 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:12:22,431+0530 [15656 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T01:12:23,125+0530 [15656 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T01:12:23,125+0530 [15656 40] com.newrelic INFO: Agent run id: BbxBlmTHi-vLAEP5uBk7bltmVjQAAAIBAAAnIQEAAD0oAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T01:12:23,126+0530 [15656 40] com.newrelic INFO: Agent 15656@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T01:12:23,126+0530 [15656 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T01:12:23,127+0530 [15656 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:12:23,127+0530 [15656 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:12:23,127+0530 [15656 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:12:23,128+0530 [15656 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:12:23,128+0530 [15656 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:12:23,128+0530 [15656 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:12:23,996+0530 [15656 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T01:12:23,998+0530 [15656 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:19:47,420+0530 [15656 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T01:19:47,459+0530 [15656 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@40d18380 tried to finish but ServiceManager not started
+2024-05-29T01:19:48,293+0530 [15656 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:32:55,093+0530 [16065 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:32:55,094+0530 [16065 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:32:55,094+0530 [16065 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:32:55,094+0530 [16065 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:32:55,094+0530 [16065 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:32:55,094+0530 [16065 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:32:55,370+0530 [16065 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:32:57,028+0530 [16065 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:32:57,159+0530 [16065 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:32:57,219+0530 [16065 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:32:57,223+0530 [16065 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:32:57,223+0530 [16065 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:32:57,223+0530 [16065 1] com.newrelic INFO: Premain startup complete in 8,182ms
+2024-05-29T01:32:57,224+0530 [16065 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:32:59,723+0530 [16065 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:33:07,284+0530 [16065 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T01:33:07,305+0530 [16065 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:33:09,301+0530 [16065 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T01:33:10,256+0530 [16065 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T01:33:10,257+0530 [16065 40] com.newrelic INFO: Agent run id: BRwdZuSkrMESAEP5uBk7bltmVjjsAAIBAAAnIQEAAD7BAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T01:33:10,257+0530 [16065 40] com.newrelic INFO: Agent 16065@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T01:33:10,257+0530 [16065 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T01:33:10,259+0530 [16065 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:33:10,259+0530 [16065 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:33:10,259+0530 [16065 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:33:10,261+0530 [16065 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:33:10,261+0530 [16065 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:33:10,261+0530 [16065 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:33:11,052+0530 [16065 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T01:33:11,053+0530 [16065 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:36:50,956+0530 [16065 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T01:36:50,991+0530 [16065 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@32d4dbe0 tried to finish but ServiceManager not started
+2024-05-29T01:36:52,266+0530 [16065 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:43:31,614+0530 [16226 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:43:31,614+0530 [16226 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:43:31,614+0530 [16226 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:43:31,614+0530 [16226 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:43:31,614+0530 [16226 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:43:31,615+0530 [16226 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:43:31,912+0530 [16226 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:43:32,364+0530 [16226 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:43:32,491+0530 [16226 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:43:32,553+0530 [16226 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:43:32,555+0530 [16226 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:43:32,555+0530 [16226 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:43:32,555+0530 [16226 1] com.newrelic INFO: Premain startup complete in 6,549ms
+2024-05-29T01:43:32,556+0530 [16226 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:43:34,330+0530 [16226 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:43:42,591+0530 [16226 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T01:43:42,599+0530 [16226 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:43:44,642+0530 [16226 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T01:43:45,681+0530 [16226 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T01:43:45,681+0530 [16226 40] com.newrelic INFO: Agent run id: BQoLuTyFdcojAEP5uBk7bltmVjtEAAIBAAAnIQEAAD9iAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T01:43:45,681+0530 [16226 40] com.newrelic INFO: Agent 16226@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T01:43:45,681+0530 [16226 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T01:43:45,683+0530 [16226 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:43:45,683+0530 [16226 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:43:45,683+0530 [16226 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:43:45,685+0530 [16226 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:43:45,685+0530 [16226 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:43:45,686+0530 [16226 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:43:46,998+0530 [16226 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T01:43:46,999+0530 [16226 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:46:15,755+0530 [16226 63] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (java.net.SocketException: Connection reset). Please check your network / proxy settings.
+2024-05-29T01:57:06,589+0530 [16226 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T01:57:06,674+0530 [16226 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@a164c19 tried to finish but ServiceManager not started
+2024-05-29T01:57:07,121+0530 [16226 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T01:57:20,269+0530 [16525 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T01:57:20,269+0530 [16525 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T01:57:20,269+0530 [16525 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T01:57:20,269+0530 [16525 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T01:57:20,269+0530 [16525 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T01:57:20,270+0530 [16525 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T01:57:20,534+0530 [16525 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T01:57:21,506+0530 [16525 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T01:57:21,637+0530 [16525 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T01:57:21,694+0530 [16525 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T01:57:21,696+0530 [16525 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T01:57:21,696+0530 [16525 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T01:57:21,696+0530 [16525 1] com.newrelic INFO: Premain startup complete in 7,350ms
+2024-05-29T01:57:21,697+0530 [16525 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T01:57:23,336+0530 [16525 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T01:57:31,712+0530 [16525 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T01:57:31,713+0530 [16525 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T01:57:34,073+0530 [16525 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T01:57:35,097+0530 [16525 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T01:57:35,098+0530 [16525 40] com.newrelic INFO: Agent run id: BchT4_DVgOlnAEP5uBk7bltmVj6MAAIBAAAnIQEAAECNAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T01:57:35,098+0530 [16525 40] com.newrelic INFO: Agent 16525@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T01:57:35,098+0530 [16525 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T01:57:35,100+0530 [16525 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:57:35,100+0530 [16525 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:57:35,100+0530 [16525 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:57:35,104+0530 [16525 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T01:57:35,104+0530 [16525 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T01:57:35,104+0530 [16525 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T01:57:35,980+0530 [16525 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T01:57:35,982+0530 [16525 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T02:00:06,600+0530 [16525 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T02:00:06,625+0530 [16525 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@608a3f40 tried to finish but ServiceManager not started
+2024-05-29T02:00:07,961+0530 [16525 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T11:37:37,442+0530 [18188 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T11:37:37,443+0530 [18188 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T11:37:37,443+0530 [18188 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T11:37:37,443+0530 [18188 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T11:37:37,443+0530 [18188 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T11:37:37,443+0530 [18188 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T11:37:37,728+0530 [18188 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T11:37:38,316+0530 [18188 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T11:37:38,450+0530 [18188 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T11:37:38,506+0530 [18188 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T11:37:38,508+0530 [18188 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T11:37:38,508+0530 [18188 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T11:37:38,508+0530 [18188 1] com.newrelic INFO: Premain startup complete in 6,614ms
+2024-05-29T11:37:38,509+0530 [18188 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T11:37:40,204+0530 [18188 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T11:37:48,549+0530 [18188 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T11:37:48,561+0530 [18188 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:37:50,466+0530 [18188 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T11:37:50,745+0530 [18188 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T11:37:50,745+0530 [18188 40] com.newrelic INFO: Agent run id: BcyUquOk93kNAEP5uBk7bltmVsZ8AAIBAAAnIQEAAEcMAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T11:37:50,745+0530 [18188 40] com.newrelic INFO: Agent 18188@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T11:37:50,746+0530 [18188 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T11:37:50,747+0530 [18188 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:37:50,747+0530 [18188 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:37:50,747+0530 [18188 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:37:50,751+0530 [18188 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:37:50,751+0530 [18188 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:37:50,751+0530 [18188 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:37:50,964+0530 [18188 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T11:37:50,965+0530 [18188 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:47:27,385+0530 [18188 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T11:47:27,407+0530 [18188 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@78cdaee1 tried to finish but ServiceManager not started
+2024-05-29T11:47:27,674+0530 [18188 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T11:48:05,366+0530 [18349 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T11:48:05,367+0530 [18349 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T11:48:05,367+0530 [18349 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T11:48:05,367+0530 [18349 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T11:48:05,367+0530 [18349 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T11:48:05,367+0530 [18349 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T11:48:05,743+0530 [18349 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T11:48:06,706+0530 [18349 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T11:48:06,847+0530 [18349 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T11:48:06,912+0530 [18349 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T11:48:06,914+0530 [18349 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T11:48:06,914+0530 [18349 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T11:48:06,914+0530 [18349 1] com.newrelic INFO: Premain startup complete in 7,123ms
+2024-05-29T11:48:06,915+0530 [18349 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T11:48:08,649+0530 [18349 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T11:48:16,928+0530 [18349 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T11:48:16,937+0530 [18349 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:48:18,619+0530 [18349 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T11:48:19,040+0530 [18349 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T11:48:19,040+0530 [18349 40] com.newrelic INFO: Agent run id: BR5hk4_2oYwOAEP5uBk7bltmVskQAAIBAAAnIQEAAEetAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T11:48:19,040+0530 [18349 40] com.newrelic INFO: Agent 18349@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T11:48:19,041+0530 [18349 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T11:48:19,042+0530 [18349 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:48:19,042+0530 [18349 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:48:19,042+0530 [18349 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:48:19,043+0530 [18349 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:48:19,043+0530 [18349 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:48:19,043+0530 [18349 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:48:19,722+0530 [18349 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T11:48:19,722+0530 [18349 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:53:43,003+0530 [18349 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T11:53:43,044+0530 [18349 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@1425dab1 tried to finish but ServiceManager not started
+2024-05-29T11:53:43,312+0530 [18349 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-05-29T11:58:49,613+0530 [18522 1] com.newrelic INFO: Writing to New Relic log file: /Users/rasheeda/Downloads/registration/newrelic/logs/newrelic_agent.log
+2024-05-29T11:58:49,614+0530 [18522 1] com.newrelic INFO: JRE vendor Amazon.com Inc. version 17.0.11
+2024-05-29T11:58:49,614+0530 [18522 1] com.newrelic INFO: JVM vendor Amazon.com Inc. OpenJDK 64-Bit Server VM version 17.0.11+9-LTS
+2024-05-29T11:58:49,614+0530 [18522 1] com.newrelic INFO: OS Mac OS X version 14.4.1 arch aarch64
+2024-05-29T11:58:49,614+0530 [18522 1] com.newrelic INFO: Agent Host: Rasheedas-MacBook-Pro.local IP: 192.168.1.2
+2024-05-29T11:58:49,614+0530 [18522 1] com.newrelic INFO: New Relic Agent v8.12.0 is initializing...
+2024-05-29T11:58:49,894+0530 [18522 16] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-05-29T11:58:50,400+0530 [18522 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.eu01.nr-data.net:443
+2024-05-29T11:58:50,536+0530 [18522 1] com.newrelic INFO: Setting audit_mode to false
+2024-05-29T11:58:50,595+0530 [18522 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /Users/rasheeda/Downloads/registration/newrelic/./newrelic.yml
+2024-05-29T11:58:50,596+0530 [18522 1] com.newrelic INFO: New Relic Agent v8.12.0 has started
+2024-05-29T11:58:50,597+0530 [18522 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@20fa23c1
+2024-05-29T11:58:50,597+0530 [18522 1] com.newrelic INFO: Premain startup complete in 6,598ms
+2024-05-29T11:58:50,597+0530 [18522 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-05-29T11:58:52,635+0530 [18522 1] com.newrelic INFO: Server Info: Apache Tomcat/10.1.24
+2024-05-29T11:59:00,624+0530 [18522 40] com.newrelic INFO: Host name is Rasheedas-MacBook-Pro.local, display host Rasheedas-MacBook-Pro.local for application registration-service
+2024-05-29T11:59:00,631+0530 [18522 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:59:01,687+0530 [18522 40] com.newrelic INFO: Collector redirection to collector.eu01.nr-data.net:443
+2024-05-29T11:59:02,315+0530 [18522 40] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-05-29T11:59:02,316+0530 [18522 40] com.newrelic INFO: Agent run id: BRENUfXsXohSAEP5uBk7bltmVsukAAIBAAAnIQEAAEhaAgQZO2vQAwAGOC4xMi4wABtSYXNoZWVkYXMtTWFjQm9vay1Qcm8ubG9jYWwAFHJlZ2lzdHJhdGlvbi1zZXJ2aWNl
+2024-05-29T11:59:02,316+0530 [18522 40] com.newrelic INFO: Agent 18522@Rasheedas-MacBook-Pro.local/registration-service connected to collector.eu01.nr-data.net:443
+2024-05-29T11:59:02,317+0530 [18522 40] com.newrelic INFO: Reporting to: https://rpm.eu.newrelic.com/accounts/4454840/applications/423324624
+2024-05-29T11:59:02,320+0530 [18522 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:59:02,320+0530 [18522 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:59:02,320+0530 [18522 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:59:02,323+0530 [18522 40] com.newrelic INFO: Using region aware collector host: collector.eu01.nr-data.net
+2024-05-29T11:59:02,323+0530 [18522 40] com.newrelic INFO: Using region aware metric ingest URI: https://metric-api.eu.newrelic.com/metric/v1
+2024-05-29T11:59:02,323+0530 [18522 40] com.newrelic INFO: Using region aware event ingest URI: https://insights-collector.eu01.nr-data.net/v1/accounts/events
+2024-05-29T11:59:03,349+0530 [18522 40] com.newrelic INFO: Real user monitoring is enabled for application registration-service. Auto instrumentation is enabled.
+2024-05-29T11:59:03,350+0530 [18522 40] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-05-29T11:59:49,824+0530 [18522 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-05-29T11:59:49,856+0530 [18522 44] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@47688bee tried to finish but ServiceManager not started
+2024-05-29T11:59:50,279+0530 [18522 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
